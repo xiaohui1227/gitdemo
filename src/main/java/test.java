@@ -6,6 +6,5 @@ public class test {
         System.out.println("d");
         System.out.println("e");
         System.out.println("hp");
-        System.out.println("dc");
     }
 }
